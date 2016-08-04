@@ -1,0 +1,46 @@
+_repo: The-Life-and-Adventures-of-Baron-Trenck-Volume-2_2669
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Holcroft, Thomas
+    alias: Vincent, William
+    birthdate: 1745
+    deathdate: 1809
+    gutenberg_agent_id: '3066'
+    url: http://www.gutenberg.org/2009/agents/3066
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Holcroft
+creator:
+  author:
+    agent_name: Trenck, Friedrich, Freiherr von der
+    alias: Trenck, Frederic, Baron
+    birthdate: 1726
+    deathdate: 1794
+    gutenberg_agent_id: '991'
+    url: http://www.gutenberg.org/2009/agents/991
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_von_der_Trenck
+  editor:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+description: ''
+gutenberg_issued: '2001-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2669'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure and adventurers'
+- !lcsh 'Autobiographies'
+- !lcc 'D'
+- !lcsh 'Trenck, Friedrich, Freiherr von der, 1726-1794'
+- !lcc 'DD'
+- !lcsh 'Europe -- Biography -- Early works to 1800'
+- GITenberg
+title: The Life and Adventures of Baron Trenck, Volume 2
+url: http://www.gutenberg.org/ebooks/2669
