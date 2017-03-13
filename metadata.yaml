@@ -1,5 +1,5 @@
 _repo: The-Life-and-Adventures-of-Baron-Trenck-Volume-2_2669
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Holcroft, Thomas
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '3066'
     url: http://www.gutenberg.org/2009/agents/3066
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Holcroft
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Trenck, Friedrich, Freiherr von der
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1355
     wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2669#The-Life-and-Adventures-of-Baron-Trenck-Volume-2
 gutenberg_issued: '2001-06-01'
 gutenberg_type: Text
 identifiers:
